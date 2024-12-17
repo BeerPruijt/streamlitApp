@@ -1,0 +1,56 @@
+{
+  "price_block_var1": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 1,
+    "category": "price_block"
+  },
+  "price_block_var2": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 3.0,
+    "category": "price_block"
+  },
+  "price_block_var3": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 3.0,
+    "category": "price_block"
+  },
+  "inflation_block_var1": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 1,
+    "category": "inflation_block"
+  },
+  "inflation_block_var2": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 2.0,
+    "category": "inflation_block"
+  },
+  "inflation_block_var3": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 1,
+    "category": "inflation_block"
+  },
+  "energy_block_var1": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 1,
+    "category": "energy_block"
+  },
+  "energy_block_var2": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 1,
+    "category": "energy_block"
+  },
+  "energy_block_var3": {
+    "method": "single_value_fill",
+    "quarters": null,
+    "input": 1,
+    "category": "energy_block"
+  }
+}

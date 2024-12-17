@@ -1,0 +1,31 @@
+{
+    "res_YBBPM15": {
+      "method": "single_value_fill",
+      "quarters": null,
+      "input": 0
+    },
+    "res_C15": {
+      "method": "percentual_changes_fill",
+      "reference_scenario": "baseline",
+      "quarters": "2024Q1:2027Q4",
+      "input": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ]
+    }
+}
+  
